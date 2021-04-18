@@ -83,3 +83,9 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+TrueTypeFontSample/.idea/caches/build_file_checksums.ser
+TrueTypeFontSample/.idea/compiler.xml
+TrueTypeFontSample/.idea/gradle.xml
+TrueTypeFontSample/.idea/jarRepositories.xml
+TrueTypeFontSample/.idea/misc.xml
+TrueTypeFontSample/.idea/modules.xml
