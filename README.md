@@ -1,2 +1,2 @@
 # TrueType-font-sample
-This is a sample to demonstrate how is easy to change standard font to use any kind of TrueType font in Native Java Android Application.
+This is a sample to demonstrate how it is easy to change from standard fonts to any other True Type ones in native Java Android app
